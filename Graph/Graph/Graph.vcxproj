@@ -65,9 +65,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Graph.h" />
+    <ClInclude Include="GraphTraversal.h" />
+    <ClInclude Include="LinkedQueue.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Graph.c" />
+    <ClCompile Include="GraphTraversal.c" />
+    <ClCompile Include="LinkedQueue.c" />
     <ClCompile Include="Test_Graph.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

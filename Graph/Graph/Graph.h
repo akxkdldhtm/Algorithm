@@ -11,7 +11,7 @@ typedef int ElementType;
 typedef struct tagVertex
 {
 	ElementType Data;
-	int			Visited;
+	int			nVisited;
 	int			index;
 
 	struct tagVertex* Next;

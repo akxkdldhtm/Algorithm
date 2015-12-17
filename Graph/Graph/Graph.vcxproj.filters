@@ -18,12 +18,24 @@
     <ClInclude Include="Graph.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="LinkedQueue.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphTraversal.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Graph.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Test_Graph.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedQueue.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphTraversal.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -27,7 +27,7 @@ Vertex* CreateVertex(ElementType Data)
 	vertex->AdjacencyList = NULL;
 	vertex->index = -1;
 	vertex->Next = NULL;
-	vertex->Visited = NotVisited;
+	vertex->nVisited = NotVisited;
 
 	return vertex;
 }
