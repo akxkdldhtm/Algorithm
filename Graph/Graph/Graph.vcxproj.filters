@@ -24,6 +24,12 @@
     <ClInclude Include="GraphTraversal.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="TopologicalSort.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedList.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Graph.c">
